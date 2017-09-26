@@ -1,6 +1,7 @@
 # CS-180-Introduction-to-Algorithms-and-Complexity
 
 Undergraduate Algorithms Course at UCLA taught by Professor Mark Burgin.
+  His personal website is: http://www.math.ucla.edu/~mburgin/
 
 Textbook: Kleinberg, J. and Tardos, E. Algorithm Design, Pearson - Addison-Wesley, 2006
 
